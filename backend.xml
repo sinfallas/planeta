@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<channel>
+<title>Planeta VaSlibre</title>
+<link>http://planeta.vaslibre.org.ve</link>
+<description>Planeta VaSlibre, los principales FEEDS de sitios GNU Linux, Distribuciones</description>
+<language>spa</language>
+<copyright>Copyleft 2014 -2015, Planeta VaSlibre</copyright>
+<pubDate>Wed, 14 Jan 2015 11:48:53 -0430</pubDate>
+<lastBuildDate>Wed, 14 Jan 2015 11:48:53 -0430</lastBuildDate>
+<docs>http://planeta.vaslibre.org.ve</docs>
+<generator>Script ViSeRProject http://viserproject.com</generator>
+<webMaster>webmaster@vaslibre.org.ve (Planeta VaSlibre)</webMaster>
+<managingEditor>webmaster@vaslibre.org.ve (Planeta VaSlibre)</managingEditor>
+<image>
+<title>Planeta VaSlibre</title>
+<url>http://planeta.vaslibre.org.ve/themes/planetaVaSLibre/img/rss.png</url>
+<link>http://planeta.vaslibre.org.ve</link>
+<description>Planeta VaSlibre, los principales FEEDS de sitios GNU Linux, Distribuciones</description>
+</image>
+<ttl>120</ttl>
+
+<entry>
+<title>Fish, la terminal con esteroides</title>
+<link>http://planeta.vaslibre.org.ve/index.php?r=http://www.xombra.com/index.php?do/articulos/nota/284/op/5/t/fish-la-terminal-con-esteroides</link>
+<guid>http://planeta.vaslibre.org.ve/index.php?r=http://www.xombra.com/index.php?do/articulos/nota/284/op/5/t/fish-la-terminal-con-esteroides</guid>
+<pubDate>Wed, 14 Jan 2015 01:37:46 -0430</pubDate>
+<description>
+<![CDATA[<img src="http://planeta.vaslibre.org.ve/img/avatar/xombra.png" alt="xombra" align="left" style="float:left; width:95px; height:95px; margin-right:10px;">Desde el blog del amigo sinfallas encontré este post bastante interesante sobre Fish (desde uso Fish, ha sido más rápido trabajar con la terminal).
+A continuación el post:
+Fish es un shell de l?...]]></description>
+</entry>
+
+<entry>
+<title>VaSlibre tiene PLANETA!</title>
+<link>http://planeta.vaslibre.org.ve/index.php?r=http://www.xombra.com/index.php?do/noticias/nota/6713/op/4/t/vaslibre-tiene-planeta</link>
+<guid>http://planeta.vaslibre.org.ve/index.php?r=http://www.xombra.com/index.php?do/noticias/nota/6713/op/4/t/vaslibre-tiene-planeta</guid>
+<pubDate>Wed, 14 Jan 2015 01:07:21 -0430</pubDate>
+<description>
+<![CDATA[<img src="http://planeta.vaslibre.org.ve/img/avatar/xombra.png" alt="xombra" align="left" style="float:left; width:95px; height:95px; margin-right:10px;">Los amigos de VaSlibre colocaron online nuevamente al Planeta de noticias del Grupo, (http://planeta.vaslibre.org.ve/)...]]></description>
+</entry>
+
+<entry>
+<title>Reinauguracion del Planeta VaSlibre</title>
+<link>http://planeta.vaslibre.org.ve/index.php?r=http://vaslibre.org.ve/index.php?id/378/go/5</link>
+<guid>http://planeta.vaslibre.org.ve/index.php?r=http://vaslibre.org.ve/index.php?id/378/go/5</guid>
+<pubDate>Wed, 14 Jan 2015 00:02:02 -0430</pubDate>
+<description>
+<![CDATA[<img src="http://planeta.vaslibre.org.ve/img/avatar/vaslibre.png" alt="vaslibre" align="left" style="float:left; width:95px; height:95px; margin-right:10px;">Hoy 13 de enero del 2015, nuestro grupo a colocado el Planeta de noticias (http://planeta.vaslibre.org.ve/). En el se mostraran las ultimas tres (03) noticias de cada blog de usuario incluido en el Feed de noticias....]]></description>
+</entry>
+
+<entry>
+<title>I Jornada de Ingenieria y Arquitectura UJAP - Carabobo</title>
+<link>http://planeta.vaslibre.org.ve/index.php?r=http://vaslibre.org.ve/index.php?id/377/go/5</link>
+<guid>http://planeta.vaslibre.org.ve/index.php?r=http://vaslibre.org.ve/index.php?id/377/go/5</guid>
+<pubDate>Sun, 16 Nov 2014 21:34:54 -0430</pubDate>
+<description>
+<![CDATA[<img src="http://planeta.vaslibre.org.ve/img/avatar/vaslibre.png" alt="vaslibre" align="left" style="float:left; width:95px; height:95px; margin-right:10px;">La Comunidad Venezolana de Fedora fue invitada a: Jornada de Arquitectura e Ingenieria de la Universidad Jose Antonio Paez, Los profesores Yi Min Shum Xie y Luis de la facultad de Ingenieria de TI, nos contactaron para participar en el evento....]]></description>
+</entry>
+</channel>
+
+</feed>
