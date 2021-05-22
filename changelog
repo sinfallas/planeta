@@ -1,4 +1,10 @@
-commit ca502381404fc865831121e15ec091db192c06fd (HEAD -> master, origin/master)
+commit 31792b4ac96c819a201c17a85beac0ce3eaa8b6e (HEAD -> master, origin/master)
+Author: Jesus <sinfallas@gmail.com>
+Date:   Sun Jan 31 16:06:16 2021 -0400
+
+    * changelog
+
+commit ca502381404fc865831121e15ec091db192c06fd
 Author: config <Palencia>
 Date:   Mon Jul 6 22:04:29 2020 -0400
 
